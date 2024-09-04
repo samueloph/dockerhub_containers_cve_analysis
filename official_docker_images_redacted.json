@@ -1,0 +1,927 @@
+[
+  {
+    "name": "memcached",
+    "pull_count": 12299046746,
+    "star_count": 2224
+  },
+  {
+    "name": "nginx",
+    "pull_count": 11966268608,
+    "star_count": 20169
+  },
+  {
+    "name": "busybox",
+    "pull_count": 11620476849,
+    "star_count": 3310
+  },
+  {
+    "name": "alpine",
+    "pull_count": 10699502872,
+    "star_count": 10984
+  },
+  {
+    "name": "ubuntu",
+    "pull_count": 9402810920,
+    "star_count": 17246
+  },
+  {
+    "name": "redis",
+    "pull_count": 9222006268,
+    "star_count": 12990
+  },
+  {
+    "name": "postgres",
+    "pull_count": 9161742346,
+    "star_count": 13739
+  },
+  {
+    "name": "python",
+    "pull_count": 7642324003,
+    "star_count": 9792
+  },
+  {
+    "name": "node",
+    "pull_count": 5340393464,
+    "star_count": 13625
+  },
+  {
+    "name": "httpd",
+    "pull_count": 4535488343,
+    "star_count": 4788
+  },
+  {
+    "name": "mongo",
+    "pull_count": 4467575410,
+    "star_count": 10370
+  },
+  {
+    "name": "mysql",
+    "pull_count": 4421338700,
+    "star_count": 15356
+  },
+  {
+    "name": "rabbitmq",
+    "pull_count": 3591195336,
+    "star_count": 5131
+  },
+  {
+    "name": "traefik",
+    "pull_count": 3305722796,
+    "star_count": 3280
+  },
+  {
+    "name": "docker",
+    "pull_count": 3111785172,
+    "star_count": 2629
+  },
+  {
+    "name": "hello-world",
+    "pull_count": 3061295090,
+    "star_count": 2311
+  },
+  {
+    "name": "mariadb",
+    "pull_count": 2839534178,
+    "star_count": 5840
+  },
+  {
+    "name": "openjdk",
+    "pull_count": 2543802958,
+    "star_count": 3952
+  },
+  {
+    "name": "golang",
+    "pull_count": 2235447697,
+    "star_count": 4933
+  },
+  {
+    "name": "registry",
+    "pull_count": 1668439342,
+    "star_count": 4035
+  },
+  {
+    "name": "ruby",
+    "pull_count": 1454961295,
+    "star_count": 2344
+  },
+  {
+    "name": "wordpress",
+    "pull_count": 1392369488,
+    "star_count": 5648
+  },
+  {
+    "name": "debian",
+    "pull_count": 1300071001,
+    "star_count": 5072
+  },
+  {
+    "name": "debian:unstable",
+    "pull_count": 1300071001,
+    "star_count": 5072
+  },
+  {
+    "name": "debian:oldstable",
+    "pull_count": 1300071001,
+    "star_count": 5072
+  },
+  {
+    "name": "debian:oldoldstable",
+    "pull_count": 1300071001,
+    "star_count": 5072
+  },
+  {
+    "name": "php",
+    "pull_count": 1194068401,
+    "star_count": 7594
+  },
+  {
+    "name": "centos",
+    "pull_count": 1159812334,
+    "star_count": 7748
+  },
+  {
+    "name": "sonarqube",
+    "pull_count": 1119978748,
+    "star_count": 2424
+  },
+  {
+    "name": "haproxy",
+    "pull_count": 1085052182,
+    "star_count": 1939
+  },
+  {
+    "name": "influxdb",
+    "pull_count": 1052910908,
+    "star_count": 1902
+  },
+  {
+    "name": "consul",
+    "pull_count": 1038769788,
+    "star_count": 1440
+  },
+  {
+    "name": "nextcloud",
+    "pull_count": 952188051,
+    "star_count": 4152
+  },
+  {
+    "name": "elasticsearch",
+    "pull_count": 880769204,
+    "star_count": 6413
+  },
+  {
+    "name": "amazonlinux",
+    "pull_count": 879902917,
+    "star_count": 1424
+  },
+  {
+    "name": "amazonlinux:2",
+    "pull_count": 879902917,
+    "star_count": 1424
+  },
+  {
+    "name": "amazonlinux:1",
+    "pull_count": 879902917,
+    "star_count": 1424
+  },
+  {
+    "name": "tomcat",
+    "pull_count": 778593039,
+    "star_count": 3695
+  },
+  {
+    "name": "maven",
+    "pull_count": 673219367,
+    "star_count": 1603
+  },
+  {
+    "name": "caddy",
+    "pull_count": 636058780,
+    "star_count": 788
+  },
+  {
+    "name": "eclipse-mosquitto",
+    "pull_count": 621407163,
+    "star_count": 1270
+  },
+  {
+    "name": "telegraf",
+    "pull_count": 603173774,
+    "star_count": 679
+  },
+  {
+    "name": "vault",
+    "pull_count": 542025780,
+    "star_count": 1129
+  },
+  {
+    "name": "bash",
+    "pull_count": 445252546,
+    "star_count": 652
+  },
+  {
+    "name": "adminer",
+    "pull_count": 374879665,
+    "star_count": 927
+  },
+  {
+    "name": "ghost",
+    "pull_count": 364201209,
+    "star_count": 1734
+  },
+  {
+    "name": "solr",
+    "pull_count": 343399206,
+    "star_count": 994
+  },
+  {
+    "name": "kong",
+    "pull_count": 332817239,
+    "star_count": 797
+  },
+  {
+    "name": "zookeeper",
+    "pull_count": 315107985,
+    "star_count": 1451
+  },
+  {
+    "name": "neo4j",
+    "pull_count": 287038410,
+    "star_count": 1250
+  },
+  {
+    "name": "gradle",
+    "pull_count": 248109479,
+    "star_count": 588
+  },
+  {
+    "name": "mongo-express",
+    "pull_count": 246719593,
+    "star_count": 1464
+  },
+  {
+    "name": "perl",
+    "pull_count": 240988093,
+    "star_count": 464
+  },
+  {
+    "name": "buildpack-deps",
+    "pull_count": 235627240,
+    "star_count": 673
+  },
+  {
+    "name": "kibana",
+    "pull_count": 217170266,
+    "star_count": 2753
+  },
+  {
+    "name": "cassandra",
+    "pull_count": 214890057,
+    "star_count": 1557
+  },
+  {
+    "name": "nats",
+    "pull_count": 204956084,
+    "star_count": 493
+  },
+  {
+    "name": "drupal",
+    "pull_count": 196501634,
+    "star_count": 1049
+  },
+  {
+    "name": "logstash",
+    "pull_count": 195611961,
+    "star_count": 2214
+  },
+  {
+    "name": "couchdb",
+    "pull_count": 191059631,
+    "star_count": 569
+  },
+  {
+    "name": "percona",
+    "pull_count": 184191546,
+    "star_count": 633
+  },
+  {
+    "name": "composer",
+    "pull_count": 163226953,
+    "star_count": 1087
+  },
+  {
+    "name": "eclipse-temurin",
+    "pull_count": 157916323,
+    "star_count": 588
+  },
+  {
+    "name": "chronograf",
+    "pull_count": 155283188,
+    "star_count": 365
+  },
+  {
+    "name": "jenkins/jenkins",
+    "pull_count": 149112094,
+    "star_count": 5695
+  },
+  {
+    "name": "java",
+    "pull_count": 142724384,
+    "star_count": 2008
+  },
+  {
+    "name": "teamspeak",
+    "pull_count": 134560557,
+    "star_count": 546
+  },
+  {
+    "name": "matomo",
+    "pull_count": 124588194,
+    "star_count": 337
+  },
+  {
+    "name": "sentry",
+    "pull_count": 122335935,
+    "star_count": 656
+  },
+  {
+    "name": "fedora",
+    "pull_count": 121507032,
+    "star_count": 1216
+  },
+  {
+    "name": "adoptopenjdk",
+    "pull_count": 100171914,
+    "star_count": 376
+  },
+  {
+    "name": "nats-streaming",
+    "pull_count": 99291591,
+    "star_count": 167
+  },
+  {
+    "name": "amazoncorretto",
+    "pull_count": 94313884,
+    "star_count": 421
+  },
+  {
+    "name": "flink",
+    "pull_count": 90130631,
+    "star_count": 431
+  },
+  {
+    "name": "rust",
+    "pull_count": 89010552,
+    "star_count": 1015
+  },
+  {
+    "name": "couchbase",
+    "pull_count": 87044483,
+    "star_count": 920
+  },
+  {
+    "name": "joomla",
+    "pull_count": 83650412,
+    "star_count": 448
+  },
+  {
+    "name": "swarm",
+    "pull_count": 82863722,
+    "star_count": 1125
+  },
+  {
+    "name": "groovy",
+    "pull_count": 77193972,
+    "star_count": 153
+  },
+  {
+    "name": "rethinkdb",
+    "pull_count": 75662313,
+    "star_count": 629
+  },
+  {
+    "name": "rocket.chat",
+    "pull_count": 74361871,
+    "star_count": 817
+  },
+  {
+    "name": "redmine",
+    "pull_count": 69047980,
+    "star_count": 1209
+  },
+  {
+    "name": "phpmyadmin",
+    "pull_count": 67461959,
+    "star_count": 1022
+  },
+  {
+    "name": "erlang",
+    "pull_count": 62425529,
+    "star_count": 366
+  },
+  {
+    "name": "kapacitor",
+    "pull_count": 58593940,
+    "star_count": 264
+  },
+  {
+    "name": "elixir",
+    "pull_count": 58316967,
+    "star_count": 569
+  },
+  {
+    "name": "owncloud",
+    "pull_count": 56922973,
+    "star_count": 1391
+  },
+  {
+    "name": "jruby",
+    "pull_count": 50605460,
+    "star_count": 118
+  },
+  {
+    "name": "mediawiki",
+    "pull_count": 45168216,
+    "star_count": 559
+  },
+  {
+    "name": "mono",
+    "pull_count": 43058420,
+    "star_count": 522
+  },
+  {
+    "name": "odoo",
+    "pull_count": 41805607,
+    "star_count": 1373
+  },
+  {
+    "name": "pypy",
+    "pull_count": 40321811,
+    "star_count": 393
+  },
+  {
+    "name": "jetty",
+    "pull_count": 40193442,
+    "star_count": 408
+  },
+  {
+    "name": "clojure",
+    "pull_count": 37290694,
+    "star_count": 359
+  },
+  {
+    "name": "arangodb",
+    "pull_count": 36807212,
+    "star_count": 290
+  },
+  {
+    "name": "oraclelinux:9",
+    "pull_count": 36459170,
+    "star_count": 1065
+  },
+  {
+    "name": "oraclelinux:8",
+    "pull_count": 36459170,
+    "star_count": 1065
+  },
+  {
+    "name": "rockylinux:9",
+    "pull_count": 34578036,
+    "star_count": 252
+  },
+  {
+    "name": "rockylinux:8",
+    "pull_count": 34578036,
+    "star_count": 252
+  },
+  {
+    "name": "xwiki",
+    "pull_count": 32648824,
+    "star_count": 303
+  },
+  {
+    "name": "znc",
+    "pull_count": 28312255,
+    "star_count": 117
+  },
+  {
+    "name": "ros",
+    "pull_count": 27796562,
+    "star_count": 652
+  },
+  {
+    "name": "archlinux",
+    "pull_count": 27340652,
+    "star_count": 574
+  },
+  {
+    "name": "swift",
+    "pull_count": 26938045,
+    "star_count": 696
+  },
+  {
+    "name": "hylang",
+    "pull_count": 25898713,
+    "star_count": 60
+  },
+  {
+    "name": "haxe",
+    "pull_count": 24742388,
+    "star_count": 62
+  },
+  {
+    "name": "gcc",
+    "pull_count": 24371455,
+    "star_count": 862
+  },
+  {
+    "name": "tomee",
+    "pull_count": 24339099,
+    "star_count": 117
+  },
+  {
+    "name": "websphere-liberty",
+    "pull_count": 23999027,
+    "star_count": 299
+  },
+  {
+    "name": "django",
+    "pull_count": 22973763,
+    "star_count": 1220
+  },
+  {
+    "name": "sapmachine",
+    "pull_count": 22748796,
+    "star_count": 51
+  },
+  {
+    "name": "yourls",
+    "pull_count": 21492262,
+    "star_count": 298
+  },
+  {
+    "name": "piwik",
+    "pull_count": 20397419,
+    "star_count": 194
+  },
+  {
+    "name": "crate",
+    "pull_count": 18684301,
+    "star_count": 225
+  },
+  {
+    "name": "aerospike",
+    "pull_count": 18141720,
+    "star_count": 144
+  },
+  {
+    "name": "varnish",
+    "pull_count": 17665592,
+    "star_count": 174
+  },
+  {
+    "name": "photon",
+    "pull_count": 17399994,
+    "star_count": 196
+  },
+  {
+    "name": "iojs",
+    "pull_count": 17355353,
+    "star_count": 143
+  },
+  {
+    "name": "julia",
+    "pull_count": 15282977,
+    "star_count": 335
+  },
+  {
+    "name": "orientdb",
+    "pull_count": 15223457,
+    "star_count": 187
+  },
+  {
+    "name": "ibmjava",
+    "pull_count": 13149640,
+    "star_count": 126
+  },
+  {
+    "name": "open-liberty",
+    "pull_count": 13120642,
+    "star_count": 67
+  },
+  {
+    "name": "bonita",
+    "pull_count": 12633051,
+    "star_count": 186
+  },
+  {
+    "name": "fluentd",
+    "pull_count": 11708609,
+    "star_count": 198
+  },
+  {
+    "name": "monica",
+    "pull_count": 11503508,
+    "star_count": 199
+  },
+  {
+    "name": "r-base",
+    "pull_count": 10172739,
+    "star_count": 540
+  },
+  {
+    "name": "neurodebian",
+    "pull_count": 9937587,
+    "star_count": 111
+  },
+  {
+    "name": "opensuse/leap",
+    "pull_count": 9409708,
+    "star_count": 334
+  },
+  {
+    "name": "opensuse/tumbleweed",
+    "pull_count": 9409708,
+    "star_count": 334
+  },
+  {
+    "name": "storm",
+    "pull_count": 9011586,
+    "star_count": 199
+  },
+  {
+    "name": "rails",
+    "pull_count": 8949149,
+    "star_count": 906
+  },
+  {
+    "name": "ubuntu-debootstrap",
+    "pull_count": 8941422,
+    "star_count": 52
+  },
+  {
+    "name": "irssi",
+    "pull_count": 8268683,
+    "star_count": 175
+  },
+  {
+    "name": "haskell",
+    "pull_count": 8010532,
+    "star_count": 483
+  },
+  {
+    "name": "almalinux",
+    "pull_count": 7614513,
+    "star_count": 165
+  },
+  {
+    "name": "backdrop",
+    "pull_count": 7006466,
+    "star_count": 115
+  },
+  {
+    "name": "clearlinux",
+    "pull_count": 6866775,
+    "star_count": 177
+  },
+  {
+    "name": "cirros",
+    "pull_count": 6771760,
+    "star_count": 78
+  },
+  {
+    "name": "plone",
+    "pull_count": 6666490,
+    "star_count": 98
+  },
+  {
+    "name": "notary:server",
+    "pull_count": 6611428,
+    "star_count": 74
+  },
+  {
+    "name": "notary:signer",
+    "pull_count": 6611428,
+    "star_count": 74
+  },
+  {
+    "name": "ibm-semeru-runtimes",
+    "pull_count": 5881860,
+    "star_count": 49
+  },
+  {
+    "name": "lightstreamer",
+    "pull_count": 5856718,
+    "star_count": 91
+  },
+  {
+    "name": "postfixadmin",
+    "pull_count": 5321082,
+    "star_count": 202
+  },
+  {
+    "name": "geonetwork",
+    "pull_count": 5292662,
+    "star_count": 85
+  },
+  {
+    "name": "nuxeo",
+    "pull_count": 5066054,
+    "star_count": 95
+  },
+  {
+    "name": "friendica",
+    "pull_count": 4992764,
+    "star_count": 95
+  },
+  {
+    "name": "hello-seattle",
+    "pull_count": 4990197,
+    "star_count": 14
+  },
+  {
+    "name": "gazebo",
+    "pull_count": 4457533,
+    "star_count": 143
+  },
+  {
+    "name": "php-zendserver",
+    "pull_count": 4286460,
+    "star_count": 214
+  },
+  {
+    "name": "convertigo",
+    "pull_count": 4278885,
+    "star_count": 55
+  },
+  {
+    "name": "celery",
+    "pull_count": 3493695,
+    "star_count": 318
+  },
+  {
+    "name": "spiped",
+    "pull_count": 3145528,
+    "star_count": 65
+  },
+  {
+    "name": "swipl",
+    "pull_count": 3092379,
+    "star_count": 67
+  },
+  {
+    "name": "thrift",
+    "pull_count": 3015522,
+    "star_count": 122
+  },
+  {
+    "name": "fsharp",
+    "pull_count": 2930610,
+    "star_count": 86
+  },
+  {
+    "name": "eggdrop",
+    "pull_count": 2818542,
+    "star_count": 81
+  },
+  {
+    "name": "rapidoid",
+    "pull_count": 2698954,
+    "star_count": 27
+  },
+  {
+    "name": "docker-dev",
+    "pull_count": 2590032,
+    "star_count": 105
+  },
+  {
+    "name": "emqx",
+    "pull_count": 2549146,
+    "star_count": 88
+  },
+  {
+    "name": "rakudo-star",
+    "pull_count": 2491801,
+    "star_count": 60
+  },
+  {
+    "name": "express-gateway",
+    "pull_count": 2451866,
+    "star_count": 75
+  },
+  {
+    "name": "dart",
+    "pull_count": 2360675,
+    "star_count": 148
+  },
+  {
+    "name": "kaazing-gateway",
+    "pull_count": 2065251,
+    "star_count": 65
+  },
+  {
+    "name": "silverpeas",
+    "pull_count": 1897611,
+    "star_count": 45
+  },
+  {
+    "name": "ubuntu-upstart",
+    "pull_count": 1809020,
+    "star_count": 115
+  },
+  {
+    "name": "mageia",
+    "pull_count": 1632195,
+    "star_count": 44
+  },
+  {
+    "name": "hola-mundo",
+    "pull_count": 1462908,
+    "star_count": 11
+  },
+  {
+    "name": "known",
+    "pull_count": 1357354,
+    "star_count": 48
+  },
+  {
+    "name": "glassfish",
+    "pull_count": 1261320,
+    "star_count": 158
+  },
+  {
+    "name": "crux",
+    "pull_count": 875263,
+    "star_count": 40
+  },
+  {
+    "name": "clefos",
+    "pull_count": 774799,
+    "star_count": 23
+  },
+  {
+    "name": "alt",
+    "pull_count": 728366,
+    "star_count": 64
+  },
+  {
+    "name": "euleros",
+    "pull_count": 717956,
+    "star_count": 34
+  },
+  {
+    "name": "jobber",
+    "pull_count": 694792,
+    "star_count": 47
+  },
+  {
+    "name": "sourcemage",
+    "pull_count": 651635,
+    "star_count": 49
+  },
+  {
+    "name": "sl",
+    "pull_count": 606633,
+    "star_count": 55
+  },
+  {
+    "name": "unit",
+    "pull_count": 569603,
+    "star_count": 35
+  },
+  {
+    "name": "hitch",
+    "pull_count": 449146,
+    "star_count": 25
+  },
+  {
+    "name": "spark",
+    "pull_count": 438342,
+    "star_count": 70
+  },
+  {
+    "name": "hipache",
+    "pull_count": 436350,
+    "star_count": 85
+  },
+  {
+    "name": "satosa",
+    "pull_count": 350684,
+    "star_count": 13
+  },
+  {
+    "name": "scratch",
+    "pull_count": 268577,
+    "star_count": 1002
+  },
+  {
+    "name": "api-firewall",
+    "pull_count": 42177,
+    "star_count": 52
+  },
+  {
+    "name": "liquibase",
+    "pull_count": 20261,
+    "star_count": 4
+  }
+]

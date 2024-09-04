@@ -1,0 +1,17 @@
+[
+  {
+    "name": "debian:stable",
+    "pull_count": 1300071001,
+    "star_count": 5072
+  },
+  {
+    "name": "debian:oldstable",
+    "pull_count": 1300071001,
+    "star_count": 5072
+  },
+  {
+    "name": "debian:oldoldstable",
+    "pull_count": 1300071001,
+    "star_count": 5072
+  }
+]
